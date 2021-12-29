@@ -11,7 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-medeiros&layout=compact&langs_count=7&dark"/>
 </div>
 
-  
+  <div>
+   <img align="right" alt="InkedDesign sem nome (3)_LIjj" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89019231/147704194-49337ce1-d64c-4b91-ab0a-053050723944.jpg)">
+</div>
  
   ##
   <div>
@@ -23,4 +25,4 @@
   <a href="https://t.me/yasminSMedeiros" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   </div>
   
-  <img height="100em" ![InkedDesign sem nome (3)_LIjj](https://user-images.githubusercontent.com/89019231/147703684-11b70963-6872-420c-89bf-120248b2e895.jpg)
+  
