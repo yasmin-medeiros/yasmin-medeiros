@@ -12,7 +12,7 @@
 </div>
 
   <div>
-   <img align="right" alt="InkedDesign sem nome (3)_LIjj" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89019231/147704194-49337ce1-d64c-4b91-ab0a-053050723944.jpg)">
+   <img align="right" alt="InkedDesign sem nome (3)_LIjj" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89019231/147704194-49337ce1-d64c-4b91-ab0a-053050723944.jpg">
 </div>
  
   ##
