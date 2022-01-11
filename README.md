@@ -25,7 +25,7 @@
  <a href="https://discord.gg/h3e6yc64PV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yasminmedeiros98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yasmin-medeiros-aa1378215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/yasminSMedeiros" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  <a href="https://t.me/yasminSMedeiros" target="_onedark"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_onedark"></a> 
  
   ![Snake animation](https://github.com/yasmin-medeiros/yasmin-medeiros/blob/output/github-contribution-grid-snake.svg)
  
