@@ -2,7 +2,6 @@
 
 - 🔭 
 - 🌱 Estudando JavaScript
-- 📫 Contato: yasminmedeiros98@gmail.com
 - 😄 Pronouns: ela
 
 <div align="center">
