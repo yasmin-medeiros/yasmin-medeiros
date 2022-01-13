@@ -14,7 +14,7 @@
     <div style="display: inline_block"><br>
   <img align="center" alt="Yasmin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yasmin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yasmin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yasmin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="yasmin  gi" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89019231/147704504-1d7d1a96-94ed-4c43-a59a-f10df87ee0ae.jpg">
 </div>
  
@@ -26,7 +26,9 @@
   <a href = "mailto:yasminmedeiros98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yasmin-medeiros-aa1378215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/yasminSMedeiros" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
- 
+ </div>
+    
+    <div>
   ![Snake animation](https://github.com/yasmin-medeiros/yasmin-medeiros/blob/output/github-contribution-grid-snake.svg)
 </div>
   
