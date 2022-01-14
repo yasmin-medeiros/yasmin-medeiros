@@ -7,10 +7,9 @@
 <div align="center">
   <a href="https://github.com/yasmin-medeiros">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasmin-medeiros&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-medeiros&layout=compact&langs_count=7&onedark"/>
-</div>
-
-  <div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-medeiros&layout=compact&langs_count=7&theme=onedark"/>
+ </div>
+ <div>
     <div style="display: inline_block"><br>
   <img align="center" alt="Yasmin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yasmin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,6 +27,7 @@
   <a href="https://t.me/yasminSMedeiros" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/yasmin-medeiros/yasmin-medeiros/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
   
   
