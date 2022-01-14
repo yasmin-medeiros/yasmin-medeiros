@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Yasmin Medeiros 👋
 
-- 🌱 Estudando JavaScript
+
 - 😄 Pronouns: ela
 
 
