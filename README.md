@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Yasmin Medeiros 👋
 
-
+.......................................................................................................
 <div align="center">
   <a href="https://github.com/yasmin-medeiros">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=yasmin-medeiros&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
