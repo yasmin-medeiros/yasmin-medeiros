@@ -12,7 +12,7 @@
  <div>
     <div style="display: inline_block"><br>
   <img align="center" alt="Yasmin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yasmin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yasmin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yasmin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="yasmin  gi" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89019231/147704504-1d7d1a96-94ed-4c43-a59a-f10df87ee0ae.jpg">
 </div>
