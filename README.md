@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Yasmin Medeiros 👋👩🏻‍💻
+### Olá! Eu sou a Yasmin Medeiros 👋👩🏻‍💻
 
 
 <div align="center">
