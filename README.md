@@ -1,4 +1,4 @@
-### Olá! Eu sou a Yasmin Medeiros 👋👩🏻‍💻
+### Olá! Eu sou a Yasmin Medeiros 👩🏻‍💻👩🏻‍💼👩🏻‍🏫☺️
 
 ---
 
@@ -21,7 +21,8 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="45" height="45" />&nbsp <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="45" height="45" />&nbsp 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45" />&nbsp;
@@ -30,7 +31,7 @@
 
 ---
 
-## 📊 Estatísticas
+## 📈 Estatísticas
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yasmin-medeiros&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-medeiros&layout=compact&langs_count=7&theme=onedark" />
@@ -38,7 +39,7 @@
 
 ---
 
-## 📫 Conecte-se comigo
+## ✨ Conecte-se comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/yasmin-medeiros-aa1378215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:yasminmedeiros98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
