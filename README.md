@@ -7,28 +7,25 @@ Sou uma desenvolvedora apaixonada por tecnologia e em constante aprendizado. Ado
 
 *   🌍 Atualmente focada em aprimorar minhas habilidades em **Desenvolvimento Web**.
 *   🐍 Apaixonada pelo ecossistema **Python** e automação.
-*   💬 Sinta-se à vontade para entrar em contato comigo para parcerias ou trocar uma ideia sobre tech!
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="Yasmin-Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yasmin-HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yasmin-CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yasmin-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yasmin-React" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Yasmin-Avatar" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89019231/147704504-1d7d1a96-94ed-4c43-a59a-f10df87ee0ae.jpg">
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </div>
 
 ---
 
 ## 📊 Estatísticas
 <div align="center">
-  <a href="https://github.com/yasmin-medeiros">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmin-medeiros&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-medeiros&layout=compact&langs_count=7&theme=onedark"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmin-medeiros&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-medeiros&layout=compact&langs_count=7&theme=onedark" />
 </div>
 
 ---
