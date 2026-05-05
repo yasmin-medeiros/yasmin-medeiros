@@ -39,7 +39,7 @@
 
 ---
 
-## ✨ Conecte-se comigo
+## 💠 Conecte-se comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/yasmin-medeiros-aa1378215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:yasminmedeiros98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
