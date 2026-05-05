@@ -3,21 +3,30 @@
 ---
 
 ## 🚀 Sobre mim
-Sou uma desenvolvedora apaixonada por tecnologia e em constante aprendizado. Adoro transformar ideias em código e construir soluções que impactam a vida das pessoas. 
-
-*   🌍 Atualmente focada em aprimorar minhas habilidades em **Desenvolvimento Web**.
-*   🐍 Apaixonada pelo ecossistema **Python** e automação.
+<table>
+  <tr>
+    <td>
+      Sou uma desenvolvedora apaixonada por tecnologia e em constante aprendizado. Adoro transformar ideias em código e construir soluções que impactam a vida das pessoas. 
+      <br><br>
+      • 🌍 Atualmente focada em <b>Desenvolvimento Web</b>.<br>
+      • 🐍 Apaixonada pelo ecossistema <b>Python</b> e automação.
+    </td>
+    <td align="right">
+      <img height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89019231/147704504-1d7d1a96-94ed-4c43-a59a-f10df87ee0ae.jpg">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45" />
 </div>
 
 ---
