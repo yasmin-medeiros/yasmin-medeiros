@@ -44,4 +44,3 @@ Sou uma desenvolvedora apaixonada por tecnologia e em constante aprendizado. Ado
 <div align="center">
   <img src="https://github.com/yasmin-medeiros/yasmin-medeiros/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
-  
