@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 Sobre mim
-<table>
+
   <tr>
     <td valign="top" width="75%">
       Sou uma desenvolvedora apaixonada por tecnologia e em constante aprendizado. Adoro transformar ideias em código e construir soluções que impactam a vida das pessoas. 
@@ -15,7 +15,6 @@
       <img height="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89019231/147704504-1d7d1a96-94ed-4c43-a59a-f10df87ee0ae.jpg">
     </td>
   </tr>
-</table>
 
 ---
 
@@ -32,7 +31,6 @@
 ---
 
 ## 📈 Estatísticas
-
 <p align="center">
   <img 
     height="170" 
