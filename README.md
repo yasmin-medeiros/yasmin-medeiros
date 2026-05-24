@@ -32,10 +32,19 @@
 ---
 
 ## 📈 Estatísticas
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yasmin-medeiros&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-medeiros&layout=compact&langs_count=7&theme=onedark" />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=yasmin-medeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" 
+  />
+
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-medeiros&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" 
+  />
 </p>
+
 
 ---
 
