@@ -36,7 +36,6 @@
     height="170" 
     src="https://github-readme-stats.vercel.app/api?username=yasmin-medeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" 
   />
-
   <img 
     height="170" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-medeiros&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" 
@@ -55,7 +54,6 @@
   <a href="https://t.me/yasminSMedeiros" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://github.com/yasmin-medeiros/yasmin-medeiros/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
