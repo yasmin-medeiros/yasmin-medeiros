@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Yasmin Medeiros
+# 👩🏻‍🏫👩🏻‍💻 Yasmin Medeiros
 
 <div align="center">
 
